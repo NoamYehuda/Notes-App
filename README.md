@@ -8,3 +8,5 @@ You can create new notes, and it saved automatically so you never have to worry 
 Live Link: https://dont-gorget-note-app.netlify.app/
 
 If you want to download this file you need to run "npm install" to get the node modules folder.
+
+This Notes App was crated with JavaScript, HTML, CSS, Webpack, Babel.

@@ -1,5 +1,4 @@
 # Notes-App
-A project I did as part of "The Modern JavaScript Bootcamp" course at udemy.
 
 Description: 
 This is a note app for the web. 
@@ -10,3 +9,5 @@ Live Link: https://dont-gorget-note-app.netlify.app/
 If you want to download this file you need to run "npm install" to get the node modules folder.
 
 This Notes App was crated with JavaScript, HTML, CSS, Webpack, Babel.
+
+Project I did as part of "The Modern JavaScript Bootcamp" course at udemy.

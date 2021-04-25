@@ -1,5 +1,5 @@
 # Notes-App
-A project i did as part of "The Modern JavaScript Bootcamp" course at udemy.
+A project I did as part of "The Modern JavaScript Bootcamp" course at udemy.
 
 Description: 
 This is a note app for the web. 
